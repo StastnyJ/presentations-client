@@ -83,9 +83,9 @@ export default function ({ sendMessage }: IProps) {
           </Grid>
         </Grid>
         <Grid item xs={2} style={{ width: "100%", maxWidth: "100%" }}>
-          <Grid container spacing={3}>
+          <Grid container>
             <Grid item xs={12}>
-              <Grid container spacing={3}>
+              <Grid container>
                 <Grid item xs={1}>
                   <></>
                 </Grid>
